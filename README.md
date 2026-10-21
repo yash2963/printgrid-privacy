@@ -1,0 +1,2 @@
+# printgrid-privacy
+privacy policy
